@@ -9,3 +9,48 @@ TERMINAL COMMANDS :
 
 expo init projectname
 
+
+Apps are created by building  a tree of components
+
+Content  text
+
+
+Data or functions are passed  in the Form of props
+
+--------------------------------------------------------
+React native provides some basic components out of the box , like  
+
+View component
+
+Text component
+
+--------------------------------------------------------
+
+
+Custom components can be created in react native 
+
+--------------------------------------------------------
+
+CLI COMMANDS :
+
+cd..                  go one step back
+
+cd nameofthefolder                  to go forward / into the desired folder 
+
+
+Install expo cli globally 
+
+expo init myproject
+
+
+Before typing npm start , open in vs code 
+
+Type code . 
+
+This means “ this current directory ” 
+
+--------------------------------------------------------
+
+
+
+Npm 
