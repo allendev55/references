@@ -54,3 +54,167 @@ This means “ this current directory ”
 
 
 Npm 
+
+-------------------------------------------------------------
+
+Apps are created by building  a tree of components
+
+Content  text
+
+
+Data or functions are passed  in the Form of props
+
+--------------------------------------------------------
+React native provides some basic components out of the box , like  
+
+View component
+
+Text component
+
+React native uses a bundler called babel to convert <JSX > into valid java script code 
+
+//  to comment in react native 
+
+Variables can be called inside a <JSX> BLOCK with curly braces {  }
+
+
+--------------------------------------------------------
+
+
+Custom components can be created in react native 
+
+--------------------------------------------------------
+
+CLI COMMANDS :
+
+cd..                  go one step back
+
+cd nameofthefolder                  to go forward / into the desired folder 
+
+
+Install expo cli globally 
+
+expo init myproject
+
+
+Before typing npm start , open in vs code 
+
+Type code . 
+
+This means “ this current directory ” 
+
+--------------------------------------------------------
+
+
+
+Npm 
+
+
+
+----------------------------------------------
+
+React JS :
+
+Functional components 
+
+State 
+
+Props 
+
+------------------
+
+Use state hooks 
+
+--------------------
+
+JS :
+
+Objects
+Arrays 
+Call backs 
+Arrow function
+
+(modern java script by net ninja )
+
+--------------------------
+
+
+To install:
+
+Node .js ( npm is built in with node js )
+
+Android studio
+
+Vs code 
+
+
+
+
+
+Vs code extensions :
+
+ES7 React/Redux/GraphQL/React-Native snippets by dsznajder
+
+Material Icon Theme by Philipp Kief
+
+Sublime babel
+
+----------------------------------------
+Step 1 : 
+
+Open terminal
+
+Open the directory to run npm 
+
+
+----------------------------------------------
+
+Self closing tags are used when nothing needs to be passed in between
+
+----------------------------------------------
+import react from ‘react’;
+Import {text ,stylesSheet } from ‘React-native’;
+
+---------------------------------------------------------------
+
+
+
+
+
+Syntax for creating components
+
+const Name = () =>{
+Return <Text style=> abcdefgh </Text>
+};
+
+--------------------
+Styling 
+
+style={  styles.propertyname }
+
+Syntax for creating stylesheets 
+
+
+const styles = Stylesheet.create ({ })  
+
+This is a function
+
+An object is passed between ({  }) function 
+
+Text styles : {
+
+}
+
+This curly bracket is for grouping a collection of properties and values 
+
+-----------------------------------------------------------------------
+
+
+export default name ;
+
+
+
+Stack navigator 
+
+
+
