@@ -1,0 +1,35 @@
+UI COMPONENTS  :
+
+functional components are stateless components
+
+for functional component ,
+
+ we dont need state but we need props
+we dont need to use the render () method
+
+prop is put in in between ()
+
+--------------------------------------------------------------
+
+
+CONTAINER COMPONENTS  :
+
+class based components 
+
+use class 
+
+class based components needs 
+
+import { component } from 'react';    
+
+this is done to extend class
+
+connects to the database via lifecycle hook
+
+
+local state to store user input
+
+
+
+
+
