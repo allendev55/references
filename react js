@@ -29,6 +29,36 @@ connects to the database via lifecycle hook
 
 local state to store user input
 
+-------------------------------------------------------------------------------------
+
+ES 6 
+
+
+Classes are functions 
+
+classes contain blue print for objects
+
+objects contain properties and values 
+
+method is a function inside an object 
+
+class  {
+
+object {
+p : v 
+p : v 
+p : v 
+
+p : function ()
+}
+
+}
+
+
+--------------------------------------------------------------
+
+
+
 
 
 
